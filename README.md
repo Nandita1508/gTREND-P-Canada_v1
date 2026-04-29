@@ -17,5 +17,5 @@ To be able to run all figure generating scripts successfully, the data records p
 
 **"A 250-m Unified Gridded Phosphorus Mass Budget Dataset Across Canada (1961–2021) - gTREND-P-Canada"**<br>
 _by Lamisa Malik<sup>1</sup>, Juliane Mai<sup>2</sup>, Danyka K. Byrnes<sup>1</sup>, Kimberly J. Van Meter<sup>3,4</sup>, Shuyu Chang<sup>3</sup>, Meghan McLeod<sup>5</sup>, Nandita B. Basu<sup>1,2</sup>_<br>
-https://doi.org/10.6084/m9.figshare.c.7701308 
+[https://doi.org/10.6084/m9.figshare.c.7701308](https://figshare.com/s/965ccfa2ff959076725b) 
 
